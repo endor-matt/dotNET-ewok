@@ -20,7 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Blogifier.Core" Version="2.5.5" />
-    <PackageReference Include="bootstrap" Version="4.1.0" />
+    <PackageReference Include="bootstrap" Version="4.3.1" />
     <PackageReference Include="Confluent.Kafka" Version="1.0.0" />
     <PackageReference Include="EJS" Version="1.0.0" />
     <PackageReference Include="Halibut" Version="4.4.4" />
