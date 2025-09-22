@@ -118,9 +118,9 @@
       },
       "ServiceStack": {
         "type": "Direct",
-        "requested": "[5.9.0, )",
-        "resolved": "5.9.0",
-        "contentHash": "NEFeVgsDEUFhoX3uC4fbtxfLUx4iwSF3V5JiyfybJKFhGC7maix4joaiJpEtd+chsUojQDwTqz/v8Etbq60www==",
+        "requested": "[5.9.2, )",
+        "resolved": "5.9.2",
+        "contentHash": "kAu8BWlNv4ipBBETlBqp3iTIyRc7uUhf5iF/xKdoocGKitzk2ROrLdm9XtIt3fUzfYr4bArQtf9U1wke/4dlnA==",
         "dependencies": {
           "Microsoft.AspNetCore.Cryptography.KeyDerivation": "2.1.1",
           "Microsoft.AspNetCore.Hosting": "2.1.1",
@@ -134,10 +134,10 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "2.1.1",
           "Microsoft.Extensions.Logging.Abstractions": "2.1.1",
           "Microsoft.Extensions.Primitives": "2.1.1",
-          "ServiceStack.Client": "5.9.0",
-          "ServiceStack.Common": "5.9.0",
-          "ServiceStack.Interfaces": "5.9.0",
-          "ServiceStack.Text": "5.9.0",
+          "ServiceStack.Client": "5.9.2",
+          "ServiceStack.Common": "5.9.2",
+          "ServiceStack.Interfaces": "5.9.2",
+          "ServiceStack.Text": "5.9.2",
           "System.ComponentModel.Annotations": "4.7.0",
           "System.Drawing.Common": "4.7.0",
           "System.Linq.Queryable": "4.3.0",
@@ -1299,11 +1299,11 @@
       },
       "ServiceStack.Client": {
         "type": "Transitive",
-        "resolved": "5.9.0",
-        "contentHash": "lbfVVtN99kob0bC4M8VbrVMnJLPJ6VFtMtBe2ZhNa+Wnb6E47WoDaWlgufjNo6synQZyJ1rychYN72m5qyOyDA==",
+        "resolved": "5.9.2",
+        "contentHash": "UnxdBC60cDBKcxi+x76inEuAUH7gU70Ph6b1rSz9fpRscYIi5zgnjh8fWD7blaCzm4uvNxRXIF/8/YythLhjWA==",
         "dependencies": {
-          "ServiceStack.Interfaces": "5.9.0",
-          "ServiceStack.Text": "5.9.0",
+          "ServiceStack.Interfaces": "5.9.2",
+          "ServiceStack.Text": "5.9.2",
           "System.Collections.Specialized": "4.3.0",
           "System.Memory": "4.5.4",
           "System.Net.Requests": "4.3.0",
@@ -1313,11 +1313,11 @@
       },
       "ServiceStack.Common": {
         "type": "Transitive",
-        "resolved": "5.9.0",
-        "contentHash": "PBctAjEJ/DIodzgqeBKIlgWsOPuAOyryydz519BfGyKIqYDWcUUTFOLNl+O1Ma7WkbvUvHR9GPKtYhmtzIZ46Q==",
+        "resolved": "5.9.2",
+        "contentHash": "E4tkBe5UELpSY8hNG35p+Ow7TIjnMDXL0ylNgf183AEDn8F33hLsYJ4c2SETJX1YKE/BAKpzxi++4Rv/NbJ/fw==",
         "dependencies": {
-          "ServiceStack.Interfaces": "5.9.0",
-          "ServiceStack.Text": "5.9.0",
+          "ServiceStack.Interfaces": "5.9.2",
+          "ServiceStack.Text": "5.9.2",
           "System.ComponentModel.Primitives": "4.3.0",
           "System.Data.Common": "4.3.0",
           "System.Dynamic.Runtime": "4.3.0",
@@ -1330,16 +1330,16 @@
       },
       "ServiceStack.Interfaces": {
         "type": "Transitive",
-        "resolved": "5.9.0",
-        "contentHash": "0BiR1hd1eq5GY6xhKSYVnY2/3V6A0PPmLFhtBq3y8vbQaDcwPxWll6ix6cBkauQh4wm/DHCfnmUq/4NshEj1Jg==",
+        "resolved": "5.9.2",
+        "contentHash": "hNWiPIeBsWloL+7jP8TopKmxqC7ZmpsjOb4NECJbguCo8PYDhhjwvU10Wh1jdXvcHrBUCxbV7mPkJzbDpjh7ZA==",
         "dependencies": {
           "System.Runtime.Serialization.Primitives": "4.3.0"
         }
       },
       "ServiceStack.Text": {
         "type": "Transitive",
-        "resolved": "5.9.0",
-        "contentHash": "dmj+Tb254X+/xYwmor/vhCCh63bfFvlFAXuDSVSx6gq1/gfNNJflD1H3wGcAL6edUtWArczLOIdOG/qjsQ1KSg==",
+        "resolved": "5.9.2",
+        "contentHash": "eshT/PMViN9ULEOA84+nQGJAw64Ek7I//1358oXj2xMrmbDtNgjfOHKzwivgLWx+lzocEyKp5HtoZuZGbU5vlQ==",
         "dependencies": {
           "Microsoft.CSharp": "4.5.0",
           "System.Memory": "4.5.4",
