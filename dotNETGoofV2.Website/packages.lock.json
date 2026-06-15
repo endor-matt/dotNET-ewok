@@ -28,9 +28,9 @@
       },
       "bootstrap": {
         "type": "Direct",
-        "requested": "[4.1.0, )",
-        "resolved": "4.1.0",
-        "contentHash": "MpThvC2aO+DVfGP76J4TBIZ23pwyIkcGp2miNvQITqjNoGwLtGfY7pRU1u33Ot/7DU20LY2Ur6ZYlM0KGtCglg==",
+        "requested": "[4.3.1, )",
+        "resolved": "4.3.1",
+        "contentHash": "lrVBeG2vmfwsHJuwSzeXz+1hPn/374vXDOAusU50vzljEWcFOFtif3wzIJJqfqQRHs2RnY0xttZ0Zv5JX4BFGg==",
         "dependencies": {
           "jQuery": "[3.0.0, 4.0.0)",
           "popper.js": "[1.14.0, 2.0.0)"
